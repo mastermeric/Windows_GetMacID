@@ -1,0 +1,10 @@
+C:\Documents and Settings\MERICY\My Documents\Visual Studio 2008\Projects\getMacId\getMacId\bin\Debug\getMacId.exe
+C:\Documents and Settings\MERICY\My Documents\Visual Studio 2008\Projects\getMacId\getMacId\bin\Debug\getMacId.pdb
+C:\Documents and Settings\MERICY\My Documents\Visual Studio 2008\Projects\getMacId\getMacId\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MERICY\My Documents\Visual Studio 2008\Projects\getMacId\getMacId\obj\Debug\getMacId.Form1.resources
+C:\Documents and Settings\MERICY\My Documents\Visual Studio 2008\Projects\getMacId\getMacId\obj\Debug\getMacId.Properties.Resources.resources
+C:\Documents and Settings\MERICY\My Documents\Visual Studio 2008\Projects\getMacId\getMacId\obj\Debug\getMacId.csproj.GenerateResource.Cache
+C:\Documents and Settings\MERICY\My Documents\Visual Studio 2008\Projects\getMacId\getMacId\obj\Debug\getMacId.exe
+C:\Documents and Settings\MERICY\My Documents\Visual Studio 2008\Projects\getMacId\getMacId\obj\Debug\getMacId.pdb
+D:\Tampon\Projeler_icin_11_OCAK_2013_ofis\utils\VC++_io_islemleri\banksoft\getMacId\getMacId\obj\Debug\getMacId.exe
+D:\Tampon\Projeler_icin_11_OCAK_2013_ofis\utils\VC++_io_islemleri\banksoft\getMacId\getMacId\obj\Debug\getMacId.pdb
